@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run get_location.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/get_location.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
